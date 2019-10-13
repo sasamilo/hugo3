@@ -37,7 +37,10 @@
     font-size: 80px;
 }
 
-body {margin-top: 30px;}
+body {
+    margin-top: 30px;
+    padding: 20px 50px;
+}
 
 #updates ul{
     list-style-type: none;
